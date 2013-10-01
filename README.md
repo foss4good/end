@@ -4,25 +4,25 @@
 
 >End.js -- Package like Firebase what you can deploy in your own server.
 
-##End的定位
-安全、高性能的实时数据框架  
-不会像meteor一样提供前后端统一的框架,End只关注实时数据。
+##What is End?
+Safe, high-performance real-time data frames.
+It's not the same as meteor. End provides a front-end unified framework only concerned with real-time data.
 
-#End快速上手  
-*目前文档过时 等待更新*  
-[36kr报道](http://www.36kr.com/p/202573.html)  
-[api文档](http://demohi.github.io/end/#!/api/End)  
-[相关文章](http://demohi.github.io/tags/Endjs/)
+#Quick Start  
+*Currently waiting for updated documentation outdated*  
+[36kr reports](http://www.36kr.com/p/202573.html)  
+[api documentation](http://demohi.github.io/end/#!/api/End)  
+[Related Articles](http://demohi.github.io/tags/Endjs/)
 
-##最近完成  
-1. 权限模块（数据访问权限）  
-2. 用户模块（注册、登录、密码找回等）  
- 
-##当前进行中
-1. 代码重构
+##Recently completed
+1. Permissions module (data access)
+2. User module (registration, login, password recover, etc.)
 
-##后续计划
-1. 增加其他语言的sdk
+##Currently underway
+1. Refactoring
+
+##TODO
+1. Add other languages to SDK
 
 ## Contributors
 * [@mdemo](http://weibo.com/mdemo)
